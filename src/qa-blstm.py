@@ -13,7 +13,7 @@ import os
 
 import kaggle
 
-DATA_DIR = "../data/comp_data"
+DATA_DIR = "."
 MODEL_DIR = "../data/models"
 WORD2VEC_BIN = "GoogleNews-vectors-negative300.bin.gz"
 WORD2VEC_EMBED_SIZE = 300
